@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-10-17T12:15+09:00",
+ "asof": "10/17 12:15 갱신",
+ "line": "지금 꼭 알 것: WTI 100달러·브렌트 110달러 육박, 5개월만 최고",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "14건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "23건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "10/18 12:00"
+  }
+ ],
+ "brief": [
+  "1. WTI 100달러·브렌트 110달러 육박, 5개월만 최고",
+  "2. 금통위 D-5, 시장은 동결 가능성 우세로 선회",
+  "3. 코스닥 장중 5%대 급등, 매수 사이드카 발동",
+  "매크로: 원/달러 1334.2원(-0.50%), 금통위 D-5 앞두고 동결 전망 우세",
+  "주식: 코스피 5668.05(+2.05%)·코스닥 794.78(+4.46%) 급반등, 美나스닥은 -2.15% 하락"
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
