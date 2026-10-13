@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-11-21T12:09+09:00",
+ "asof": "11/21 12:09 갱신",
+ "line": "지금 꼭 알 것: 코스피 10개월 최저, 가계 주식손실 563조 추산",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "12건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "26건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "11/22 12:00"
+  }
+ ],
+ "brief": [
+  "1. 코스피 10개월 최저, 가계 주식손실 563조 추산",
+  "2. 비트코인 6만달러 붕괴, 7주 연속 하락",
+  "3. 소프트뱅크 16%대 폭락, 아시아 반도체주 동반 급락",
+  "매크로: 연준 매파 발언에 미국채10년 4.912%, 원/달러 1346.1원까지 올랐다.",
+  "주식: 코스피 4869.96(-5.21%), 코스닥 645.68(-5.71%), 나스닥 22617.73(-5.28%) 등 글로벌 동반 급락."
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
