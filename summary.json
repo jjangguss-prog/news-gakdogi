@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-10-31T12:07+09:00",
+ "asof": "10/31 12:07 갱신",
+ "line": "지금 꼭 알 것: 인텔 하루 29% 폭락 겹치며 AI주 매도 심화",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "9건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "28건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "11/01 12:00"
+  }
+ ],
+ "brief": [
+  "1. 인텔 하루 29% 폭락 겹치며 AI주 매도 심화",
+  "2. 코인베이스 실적부진에 임원 22억달러 매도계획",
+  "3. 美중간선거 D-3, 사전투표 4800만명 역대 최다",
+  "美 중간선거 D-3, 미국채10년 4.929%(-0.06%p)로 하락, 12월 추가인상 거론 이어져",
+  "코스피 5,730.74(-3.48%), 나스닥 25,437.0(-2.86%), 인텔 29% 폭락에 AI주 동반 매도"
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
