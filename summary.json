@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-11-07T12:09+09:00",
+ "asof": "11/07 12:09 갱신",
+ "line": "지금 꼭 알 것: 한국 신용융자 담보비율 3개월 면제, 대만 공매도 조이기",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "9건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "27건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "11/08 12:00"
+  }
+ ],
+ "brief": [
+  "1. 한국 신용융자 담보비율 3개월 면제, 대만 공매도 조이기",
+  "2. 글로벌 AI주 투매, 하루 만에 시총 4800조원 증발",
+  "3. 트럼프, 비서실장 교체…강경파 밀러 승진",
+  "미 고용 서프라이즈로 금리·달러 오르고, 트럼프는 비서실장을 밀러로 교체해 강경노선 이어갈 분위기",
+  "코스피 5,059.69(-6.02%)·코스닥 644.27(-5.03%)로 급락해 신용융자 면제·대만 공매도 제한 긴급조치 나옴"
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
