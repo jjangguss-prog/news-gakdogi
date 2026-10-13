@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-11-14T12:11+09:00",
+ "asof": "11/14 12:11 갱신",
+ "line": "지금 꼭 알 것: 비트코인 6만7000대 붕괴, XRP도 1달러 깨짐",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "11건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "17건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "11/15 12:00"
+  }
+ ],
+ "brief": [
+  "1. 비트코인 6만7000대 붕괴, XRP도 1달러 깨짐",
+  "2. 한전 3분기 영업익 71% 급감, 어닝쇼크로 주가 9%대 하락",
+  "3. 미중러 19일 선전서 첫 3자 정상회담 개최",
+  "매크로: 미 국채10년 5.154%, 원/달러 1335.1원대로 금리·환율 부담 지속",
+  "주식: 코스피 5,290.53(-0.98%)·코스닥 699.66(+0.45%), 한전 어닝쇼크와 엔비디아 6주 연속 하락이 변동성 키워"
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
