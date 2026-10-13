@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-10-24T12:10+09:00",
+ "asof": "10/24 12:10 갱신",
+ "line": "지금 꼭 알 것: 트럼프 '재타격 가능' 언급, 유가 117달러 터치",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "19건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "29건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "10/25 12:00"
+  }
+ ],
+ "brief": [
+  "1. 트럼프 '재타격 가능' 언급, 유가 117달러 터치",
+  "2. 코스피 10월 20%대 폭락, 美보다 훨씬 큰 낙폭",
+  "3. AI 거품 우려에 글로벌 신용스프레드 17개월 최고",
+  "매크로: 미 국채10년 4.988%, 신용스프레드 17개월 최고치로 위험신호, 10/28 FOMC 대기",
+  "주식: 코스피 5,550.3(+0.30%) 이달 -19.49%, 코스닥 751.69(-1.62%), 나스닥 25,955.34(-0.21%)도 약세"
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
