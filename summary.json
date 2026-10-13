@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "app": "news",
+ "name": "뉴스 각도기",
+ "url": "https://jjangguss-prog.github.io/news-gakdogi/",
+ "updated": "2026-11-28T11:51+09:00",
+ "asof": "11/28 11:51 갱신",
+ "line": "지금 꼭 알 것: 코스피 27일 4.34% 급등 마감, 코스닥 8.13% 올라",
+ "facts": [
+  {
+   "k": "지금 확인",
+   "v": "20건"
+  },
+  {
+   "k": "오늘 안에",
+   "v": "25건"
+  },
+  {
+   "k": "다음 갱신",
+   "v": "11/29 12:00"
+  }
+ ],
+ "brief": [
+  "1. 코스피 27일 4.34% 급등 마감, 코스닥 8.13% 올라",
+  "2. 코스피 고점 대비 40% 넘게 하락, 빚투 잔고 13개월 최저",
+  "3. 美 10월 PCE 3.8%·3분기 성장 4.3%, 12월 인상론 부상",
+  "매크로: 한은이 기준금리를 3.25%로 올렸습니다. 미 10년 국채 금리는 4.936%이고, 12월 연준 인상론도 커졌습니다.",
+  "주식: 27일 코스피 4.34%(4,915.68), 코스닥 8.13% 급등했지만 코스피는 고점 대비 40% 넘게 빠진 상태입니다. 29일 증안펀드 회의와 30일 금융위 점검회의가 다음 변수입니다."
+ ],
+ "links": [
+  {
+   "label": "매크로",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%A7%A4%ED%81%AC%EB%A1%9C"
+  },
+  {
+   "label": "부동산",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EB%B6%80%EB%8F%99%EC%82%B0"
+  },
+  {
+   "label": "주식",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%A3%BC%EC%8B%9D"
+  },
+  {
+   "label": "코인",
+   "url": "https://jjangguss-prog.github.io/news-gakdogi/#topic=%EC%BD%94%EC%9D%B8"
+  }
+ ]
+}
